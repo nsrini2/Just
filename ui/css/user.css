@@ -1,0 +1,363 @@
+.logo-class{
+  font-size:3em;
+  font:Tangerine;
+}
+
+.question-mktng{
+  font-size:1.6em;
+  font-weight:bolder;
+  color:black;
+}
+
+.answer-mktng{
+ font-size:1.6em;
+ font-weight:bold;
+ color:black;
+}
+
+#sign-up-box{
+  width: 50%;
+  height:500px;
+  padding: 50px 25px;
+  border:1px solid darkblue;
+  border-radius:10px;
+  padding:10px 10px;
+  background-color:white;
+}
+
+.form-group{
+  height:70px;
+}
+
+#submit-regn{
+  height:40px;
+}
+
+.perf-criteria-box{
+  float:left;
+  min-height:450px;
+}
+
+.checkbox{
+  min-height:50px;
+  padding-top:20px;
+}
+
+.checkbox input{
+    padding-left:20px;
+}
+
+#perf-categories{
+  align: right;
+}
+
+#chartgrp{
+  min-width:650px;
+  min-height:650px;
+  align:center;
+}
+
+.checkbox label {
+    display: block;
+    float: left;
+    padding-right: 10px;
+    padding-left: 150px;
+    white-space: nowrap;
+}
+.checkbox input {
+    vertical-align: middle;
+}
+.checkbox label span {
+    vertical-align: middle;
+}
+
+.table{
+  border:1px solid black;
+  color:black;
+  font-weight: bolder;
+}
+
+.table td, th{
+  width:150px;
+  text-align:right;
+  padding: 5px 5px;
+}
+
+#performance{
+  padding-top:1px;
+}
+
+#graphs{
+  padding-bottom:1px;
+}
+
+#blurb1 p{
+  font-family:Tangerine;
+  font-size:60px;
+  font-style: italic;
+  color:#ff6600;
+}
+
+#profile-splitter{
+  min-width:85%;
+  width:94%;
+  min-height:520px;
+  height:auto;
+  border:2px solid #DCDCDC;
+  border-radius:25px;
+  background-color: #DBDBD9;
+  height:auto;
+  color:#515152;
+}
+
+
+#signupbox{
+  background-color: #DBDBD9;
+  border:1px solid #DCDCDC;
+  border-radius:15px;
+  color:#515152;
+}
+
+.k-mid, .k-top, .k-bot{
+  margin-top:15px;
+  width:90%;
+  padding:12% 3%;
+  text-align:left;
+  color:#515152;
+}
+
+.fa.k-sprite,
+.fa.k-sprite::before{
+font-size: 12px;
+line-height: 12px;
+vertical-align: middle;
+}
+
+.ui-layout-resizer {
+    background-color: #C0BFC7;
+    width:2px;
+}
+
+
+.graph-tab{
+  width:100%;
+  height:15%;
+  border-bottom:1px solid #C0BFC7;
+  padding:5px 2px;
+  display:table;
+}
+
+.chartgrp{
+  display:inline;
+  border-right:1px solid #C0BFC7;
+  width:50%;
+  display:table-cell;
+}
+
+.pichart{
+  width:40px;
+  height:40px;
+  margin: 0 auto;
+}
+
+#percentcompleted{
+  font-size: 12px;
+  font-style:normal;
+  font-weight: normal;
+  padding:3px 2px;
+  margin: 0 auto;
+}
+
+
+.profileParent{
+	display: table;
+  width:100%;
+	table-layout:fixed;
+  height: auto;
+  text-align: center;
+}
+
+.form-row{
+	display:table-row;
+  width:100%;
+  text-align:center;
+  min-height:auto;
+  margin: 0 auto;
+	padding: 0px 5px 10px 5px;
+}
+
+.btnrow{
+	display:table-row;
+  width:100%;
+  text-align:center;
+  min-height:auto;
+  margin: 0 auto;
+	padding: 30px 15px 20px 15px;
+}
+
+.fieldgrp{
+	display:table-cell;
+	max-width:33%;
+	width:33%;
+  padding: 23px 5px 23px 5px;
+}
+
+.compactfieldgrp{
+  display:table-cell;
+	max-width:33%;
+	width:33%;
+  padding: 10px 3px 10px 3px;
+}
+
+
+.bdtltext, #as26label {
+    width: 160px;
+    font-size: 13px;
+    padding: 4px 4px;
+    font-weight:bolder;;
+    margin-bottom:10px;
+    border:none;
+    color:#515152;
+    text-align:left;
+}
+
+.bdtllabel{
+   min-width:160px;
+   text-align:left;
+   vertical-align:left;
+   font-size:12px;
+   font-weight: bolder;
+   padding:3px 0;
+   display:inline-block;
+   color:#515152;
+}
+
+#btngrp{
+  margin-top:5px;
+  width:100%;
+  height:auto;
+ }
+
+ .submit-row{
+   width:100%;
+   padding:25px 10px;
+   text-align: center;
+ }
+
+ #bprofiledone, #addrprofiledone{
+  min-width:450px;
+  font-size:14px;
+  height:35px;
+  background-color: #C6C0C0;
+  border:1px solid #6B6767;
+  border-radius:8px;
+  position:relative;
+  top:50%;
+  left:50%;
+}
+
+.smalllabel{
+	margin-right:15px;
+	font-size:12px;
+}
+
+#containingdiv{
+	width:100%;
+	min-height:500px;
+	height:auto;
+}
+
+.genderradio{
+	width:100%;
+  padding-left:25px;
+}
+
+.red-star{
+	color:red;
+}
+
+.entirerowcell{
+	width:100%;
+  text-align:center;
+  height:100%;
+ 	padding: 10px 5px 10px 5px;
+}
+
+.upld{
+  width:100%;
+  min-height:35px;
+	padding-left:35px;
+}
+
+.upld input{
+	font-family: 'Lato','Arvo','Open Sans', sans-serif;
+  font-size:12px;
+}
+
+.profileDetails{
+  margin-top:20px;
+}
+
+.tabdetails{
+  background-color: #DBDBD9;
+}
+
+.profile-partial-div{
+  margin: 0 auto;
+  background-color: #DBDBD9;
+}
+
+.form-content{
+  background-color: #DBDBD9;
+  margin: 0 auto;
+  padding: 0 0;
+}
+
+.contact-tabs{
+  margin:0;
+  padding: 0;
+  background-color: #DBDBD9;
+}
+
+.contact-tabs .k-item{
+  float:left;
+  clear:right;
+  display:inline;
+}
+
+#contactaddrtab-1, #contactaddrtab-2{
+    background-color: #DBDBD9;
+}
+
+.k-content{
+  min-width:100%;
+  min-height:100%;
+}
+
+#topleftposition{
+  text-align:left;
+}
+
+#sameaddrchk{
+  font-size:12px;
+  font-weight: bold;
+  margin-left:8px;
+}
+
+#topleftposition{
+  padding-left:5%;
+}
+
+.popover-title{
+  background-color:white;
+  color:red;
+  border:none;
+  width:200px;
+  height:auto;
+  padding: 10px 10px;
+}
+
+.popover-content{
+  width:100%;
+  height:100%;
+}

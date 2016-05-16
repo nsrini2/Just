@@ -1,0 +1,15 @@
+{
+    "name": "just/justapp",
+    "description": "JUST Application",
+    "authors": [
+        {
+            "name": "N Srinivasan",
+            "email": "renju.sachi@gmail.com"
+        }
+    ],
+    "require": {
+         "bcosca/fatfree":"3.5.1",
+         "kriswallsmith/assetic": "1.2.*@dev",
+         "twbs/bootstrap":"3.3.6"
+    }
+}
