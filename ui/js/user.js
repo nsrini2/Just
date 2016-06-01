@@ -1,4 +1,14 @@
 $(document).ready(function(){
+  $('.panel-body-contents > div').not("#signup").hide();
+
+  $('.home-list a').on('click', function (e) {
+  e.preventDefault();
+  $(this).parent().addClass('active');
+  $(this).parent().siblings().removeClass('active');
+  target = $(this).attr('href');
+  $('.panel-body-contents > div').not(target).hide();
+  $(target).fadeIn(600);
+});
 
 $("#pichart").kendoChart({
 

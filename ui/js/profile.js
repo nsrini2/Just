@@ -1,8 +1,4 @@
 $(document).ready(function(){
-  if( $('.error').length > 0){
-    //$('.error').dialog();
-  }
-
   $('.form-content').load("displaypersonaldetails", function(){
     $.getScript("../ui/js/personal.js");
   });

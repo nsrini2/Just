@@ -1,96 +1,120 @@
- <div class="profile-partial-div">
-  <form id="profileForm" name="profileForm" action="{{ @BASE.'/user/profile' }}" method="POST" enctype="multipart/form-data">
-		 <div class="profileParent">
-		  <div class="form-row">
-		    <div class="fieldgrp">
-                        <label for="FirstName_" class="bdtllabel required" >First Name</label><br />
-                        <input class="bdtltext" name="User_First_Name" type="text" value="{{ isset(@POST.User_First_Name) ? trim(htmlspecialchars(@POST.User_First_Name)) : '' }}" />
-			  </div>
-			  <div class="fieldgrp">
-                        <label for="MiddleName_" class="bdtllabel" >Middle Name</label><br />
-                        <input class="bdtltext" name="User_Middle_Name" type="text" value="{{ isset(@POST.User_Middle_Name) ? trim(htmlspecialchars(@POST.User_Middle_Name)) : '' }}" />
-			  </div>
-			  <div class="fieldgrp">
-                        <label for="LastName_" class="bdtllabel required" >Last Name</label><br />
-                        <input class="bdtltext" name="User_Last_Name" type="text" value="{{ isset(@POST.User_Last_Name) ? trim(htmlspecialchars(@POST.User_Last_Name)) : '' }}" />
-			  </div>
-       </div>
+<div class="container-fluid profilecontainer">
+  <div class="panel panel-default">
+    <div class="panel-body">
+      <form id="profileform" name="profileform" action="{{ @BASE.'/user/profile' }}" method="POST" enctype="multipart/form-data">
+        <div class="row">
+          <div class="col-sm-4">
+            <div class="input-group">
+              <label for="FirstName_" class="label required form-label" >First Name</label><br />
+              <input class="form-control form-text-input" name="User_First_Name" type="text" value="{{ isset(@POST.User_First_Name) ? trim(htmlspecialchars(@POST.User_First_Name)) : '' }}" />
+           </div>
+        </div>
+      <div class="col-sm-4">
+        <div class="input-group">
+          <label for="MiddleName_" class="label required form-label" >Middle Name</label><br />
+          <input class="form-control form-text-input" name="User_Middle_Name" type="text" value="{{ isset(@POST.User_Middle_Name) ? trim(htmlspecialchars(@POST.User_Middle_Name)) : '' }}" />
+        </div>
+      </div>
+      <div class="col-sm-4">
+        <div class="input-group">
+          <label for="LastName_" class="label required form-label" >Last Name</label><br />
+          <input class="form-control form-text-input" name="User_Last_Name" type="text" value="{{ isset(@POST.User_Last_Name) ? trim(htmlspecialchars(@POST.User_Last_Name)) : '' }}" />
+        </div>
+      </div>
+    </div>
 
-       <div class="form-row">
-		    <div class="fieldgrp">
-                <label for="DOB_" class="bdtllabel required" >Date of Birth</label><br />
-				        <input class="bdtltext" id="DOB" data-toggle="popover"  name="DOB" type="text" value=" {{ isset(@POST.DOB) ? trim(htmlspecialchars(@POST.DOB)) : ''  }}" />
-		    </div>
-			  <div class="fieldgrp">
-		            <label for="Gender_" class="bdtllabel required" >Gender</label><br />
-			          <div class="genderradio">
-                  <check if="{{ isset(@POST.Gender) }}">
-                    <true>
-                     <check if = "{{@POST.Gender == 'M'}}">
-                       <true>
-		    	               <input  type="radio" name="Gender" value="M" checked="checked"/><label for="male_" class="smalllabel">Male</label>
-				                 <input  type="radio" name="Gender" value="F"/><label for="female_" class="smalllabel">Female</label>
-				                 <input  type="radio" name="Gender" value="O"/><label for="other_" class="smalllabel">Other</label>
-                      </true>
-                      <false>
-                        <check if="{{ @POST.Gender == 'F'}}">
-                          <true>
-                           <input  type="radio" name="Gender" value="M"/><label for="male_" class="smalllabel">Male</label>
-   				                 <input  type="radio" name="Gender" value="F" checked="checked"/><label for="female_" class="smalllabel">Female</label>
-   				                 <input  type="radio" name="Gender" value="O"/><label for="other_" class="smalllabel">Other</label>
-                         </true>
-                         <false>
-                           <check if="{{ @POST.Gender == 'O'}}">
-                             <true>
-                               <input  type="radio" name="Gender" value="M"/><label for="male_" class="smalllabel">Male</label>
-   				                     <input  type="radio" name="Gender" value="F" /><label for="female_" class="smalllabel">Female</label>
-   				                     <input  type="radio" name="Gender" value="O" checked="checked"/><label for="other_" class="smalllabel">Other</label>
-                            </true>
-                           </check>
-                         </false>
-                       </check>
-                     </false>
-                   </check>
+    <div class="row form-margin-row">
+     <div class="col-sm-4">
+      <div class="input-group">
+        <label for="DOB_" class="label required form-label" >Date of Birth</label><br />
+        <input class="form-control form-text-input" id="DOB" name="DOB" type="text" value=" {{ isset(@POST.DOB) ? trim(htmlspecialchars(@POST.DOB)) : ''  }}" />
+      </div>
+    </div>
+    <div class="col-sm-4">
+     <div class="input-group">
+       <label for="Gender_" class="label required form-label" >Gender</label><br />
+        <div class=".radio-inline">
+          <check if="{{ isset(@POST.Gender) }}">
+            <true>
+             <check if = "{{@POST.Gender == 'M'}}">
+               <true>
+                 <input  type="radio" name="Gender" value="M" checked="checked"/><label for="male_" class="smalllabel">Male</label>
+                 <input  type="radio" name="Gender" value="F"/><label for="female_" class="smalllabel">Female</label>
+                 <input  type="radio" name="Gender" value="O"/><label for="other_" class="smalllabel">Other</label>
+              </true>
+              <false>
+                <check if="{{ @POST.Gender == 'F'}}">
+                  <true>
+                   <input  type="radio" name="Gender" value="M"/><label for="male_" class="smalllabel">Male</label>
+                   <input  type="radio" name="Gender" value="F" checked="checked"/><label for="female_" class="smalllabel">Female</label>
+                   <input  type="radio" name="Gender" value="O"/><label for="other_" class="smalllabel">Other</label>
                  </true>
                  <false>
-                   <input  type="radio" name="Gender" value="M"/><label for="male_" class="smalllabel">Male</label>
-                   <input  type="radio" name="Gender" value="F"/><label for="female_" class="smalllabel">Female</label>
-                   <input  type="radio" name="Gender" value="O"/><label for="other_" class="smalllabel">Other</label>
+                   <check if="{{ @POST.Gender == 'O'}}">
+                     <true>
+                       <input  type="radio" name="Gender" value="M"/><label for="male_" class="smalllabel">Male</label>
+                       <input  type="radio" name="Gender" value="F" /><label for="female_" class="smalllabel">Female</label>
+                       <input  type="radio" name="Gender" value="O" checked="checked"/><label for="other_" class="smalllabel">Other</label>
+                    </true>
+                   </check>
                  </false>
                </check>
-			      </div>
-		    </div>
-		    <div class="fieldgrp">
-		            <input type="hidden" name="MAX_FILE_SIZE" value="16000000" />
- 		            <label for="Foto_" class="bdtllabel required" >Photograph</label><br />
-		            <div class="upld">
-                  <input type="file" name="User_Photo" id="Foto" />
-                </div>
-                <check if="{{isset(@POST.User_Photo)}}">
-                  <true>
-                    <div class="bdtllabel">
-		                  <a href="showimg/{{ @POST.User_ID }}" class="fieldgrplink" target="_blank">Your photograph</a>
-                    </div>
-                  </true>
-                </check>
+             </false>
+           </check>
+         </true>
+         <false>
+           <input  type="radio" name="Gender" value="M"/><label for="male_" class="smalllabel">Male</label>
+           <input  type="radio" name="Gender" value="F"/><label for="female_" class="smalllabel">Female</label>
+           <input  type="radio" name="Gender" value="O"/><label for="other_" class="smalllabel">Other</label>
+         </false>
+       </check>
       </div>
-		 </div>
-		<div class="form-row">
-		    <div class="fieldgrp">
-			       <label for="PAN_" class="bdtllabel required" >PAN Number</label><br />
-				     <input class="bdtltext" id="PAN" name="PAN_No" size="10" type="text" value=" {{ isset(@POST.PAN_No) ? trim(htmlspecialchars(@POST.PAN_No)) : '' }}" />
-		   </div>
-		   <div class="fieldgrp">
-            <label for="AADHAAR_" class="bdtllabel required" >AADHAAR Number</label><br />
-            <input class="bdtltext" name="Aadhar_No" type="text" size="12" value="{{ isset(@POST.Aadhar_No) ? trim(htmlspecialchars(@POST.Aadhar_No)) : '' }}" />
-			</div>
-		</div>
-		<div class="submit-row">
-      <input type="hidden" name="User_ID" value="{{ isset(@POST.User_ID) ? trim(htmlspecialchars(@POST.User_ID)) : ''}}"/>
-      <input type="hidden" name="User_Photo_Filename" value="{{ isset(@POST.User_Photo_Filename) ? trim(htmlspecialchars(@POST.User_Photo_Filename)) : '' }}" />
-      <input type="hidden" name="create" value="create" />
-      <input type="submit" value="{{ isset(@POST.User_ID) ? 'Update':'Done'}}" name ="bprofiledone" id="bprofiledone"/>
-		</div>
-		</div>
-  </form>
+     </div>
+    </div>
+    <div class="col-sm-4">
+     <div class="input-group">
+       <input type="hidden" name="MAX_FILE_SIZE" value="16000000" />
+         <label for="Photograph_" class="label required form-label" >Photograph</label><br />
+           <input type="file" name="User_Photo" id="Foto" />
+           <check if="{{isset(@POST.User_Photo)}}">
+             <true>
+               <div class="bdtllabel">
+                 <a href="showimg/{{ @POST.User_ID }}" class="fieldgrplink" target="_blank">Your photograph</a>
+               </div>
+           </true>
+          </check>
+       </div>
+    </div>
+  </div>
+  <div class="row form-margin-row">
+    <div class="col-sm-4">
+     <div class="input-group">
+       <label for="PAN_No_" class="label required form-label" >PAN Number</label><br />
+       <input class="form-control form-text-input" id="PAN" name="PAN_No" type="text" value=" {{ isset(@POST.PAN_No) ? trim(htmlspecialchars(@POST.PAN_No)) : '' }}" />
+     </div>
+   </div>
+   <div class="col-sm-4">
+    <div class="input-group">
+      <label for="Aadhar_No_" class="label required form-label" >Aadhaar Number</label><br />
+      <input class="form-control form-text-input" name="Aadhar_No" type="text" value="{{ isset(@POST.Aadhar_No) ? trim(htmlspecialchars(@POST.Aadhar_No)) : '' }}" />
+    </div>
+  </div>
+  <div class="col-sm-4">
+   <div class="input-group">
+     <label for="Email_" class="label required form-label" >EMail</label><br />
+       <input class="form-control form-text-input" name="Email" type="text" value="{{ isset(@POST.Email) ? trim(htmlspecialchars(@POST.Email)) : '' }}" />
+     </div>
+   </div>
+ </div>
+ <div class="row form-margin-row">
+   <div class="col-sm-12" style="border:1px solid red">
+       <input type="hidden" name="User_ID" value="{{ isset(@POST.User_ID) ? trim(htmlspecialchars(@POST.User_ID)) : ''}}"/>
+       <input type="hidden" name="User_Photo_Filename" value="{{ isset(@POST.User_Photo_Filename) ? trim(htmlspecialchars(@POST.User_Photo_Filename)) : '' }}" />
+       <input type="hidden" name="create" value="create" />
+       <input type="submit" class="form-control input-lg form-submit-input" value="{{ isset(@POST.User_ID) ? 'Update':'Done'}}" name ="savepersdtls" id="savepersdtls"/>
+   </div>
+ </div>
+</form>
+</div>
+</div>
 </div>

@@ -1,5 +1,5 @@
 <div class="profile-partial-div">
-  <form id="profileForm" name="profileForm" action="{{ @BASE.'/user/contact' }}" method="POST" enctype="multipart/form-data">
+  <form id="profileForm" name="profileForm">
 		 	<div class="profileParent">
 		 	<div class="form-row">
 		    	<div class="fieldgrp">
@@ -41,9 +41,11 @@
 		</div>
 
     <div class="submit-row">
-        <input type="hidden" name="Address_Type" value="Current" />
+        <input type="hidden" name="User_ID" value="{{ isset(@POST.User_ID) ? trim(htmlspecialchars(@POST.User_ID)) : ''}}"/>
+        <input type="hidden" id="addrtype" name="Address_Type" value="Current" />
         <input type="submit" value="Done" name ="addrprofiledone" id="addrprofiledone"/>
   	</div>
    </div>
 	</form>
 </div>
+<script src="{{@BASE}}/ui/js/contact.js"></script>

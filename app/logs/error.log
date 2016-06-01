@@ -100,3 +100,831 @@ Mon, 16 May 2016 07:26:23 +0000 [::1] Invalid PAN number ".$var." entered; Pleas
 Mon, 16 May 2016 07:27:04 +0000 [::1] Invalid PAN number  ASDCVB1234 entered; Please enter a 10 digit alphanumeric value!
 Mon, 16 May 2016 07:41:45 +0000 [::1] 
 Mon, 16 May 2016 07:41:45 +0000 [::1] User id is:
+Fri, 20 May 2016 07:17:03 +0000 [::1] neerja@bhanot.com
+Fri, 20 May 2016 07:19:22 +0000 [::1] sdfsdfsd@sdfdsfinvalid: Please enter a valid Email address!
+Fri, 20 May 2016 07:20:43 +0000 [::1] renju.sachi@gmail.com is invalid: Please enter a valid Email address!
+Fri, 20 May 2016 07:28:40 +0000 [::1] 23000 Duplicate entry 'renju.sachi@gmail.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 07:29:08 +0000 [::1] 23000 Duplicate entry 'renju.sachi@gmail.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 07:31:38 +0000 [::1] renju.sachi@gmail.com is invalid: Please enter a valid Email address!
+Fri, 20 May 2016 07:34:06 +0000 [::1] $1$sq2.FS3.$ZNidhCw.KQSKDjwfM.Xmz1
+Fri, 20 May 2016 07:34:06 +0000 [::1] 23000 Duplicate entry 'renju.sachi@gmail.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 07:34:37 +0000 [::1] POST.Password
+Fri, 20 May 2016 07:34:37 +0000 [::1] 23000 Duplicate entry 'renju.sachi@gmail.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 07:38:22 +0000 [::1] $1$tN1.yy1.$GD3GC5SlX8nKg1f59veEt.
+Fri, 20 May 2016 07:38:22 +0000 [::1] 23000 Duplicate entry 'renju.sachi@gmail.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 07:40:29 +0000 [::1] 
+Fri, 20 May 2016 07:40:29 +0000 [::1] neerja@bhanot.com
+Fri, 20 May 2016 07:42:19 +0000 [::1] Password is: password1
+Fri, 20 May 2016 07:42:19 +0000 [::1] neerja@bhanot.com
+Fri, 20 May 2016 07:42:20 +0000 [::1] 23000 Duplicate entry 'neerja@bhanot.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 07:58:55 +0000 [::1] dpsd@sdfvdf is invalid: Please enter a valid Email address!
+Fri, 20 May 2016 08:00:19 +0000 [::1] dp@dp.com is invalid: Please enter a valid Email address!
+Fri, 20 May 2016 08:04:09 +0000 [::1] 23000 Duplicate entry 'dp@cp.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 08:05:16 +0000 [::1] 23000 Duplicate entry 'dp@cp.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 08:06:37 +0000 [::1] dp@cm.com is invalid: Please enter a valid Email address!
+Fri, 20 May 2016 08:07:29 +0000 [::1] dp@cm.com is invalid: Please enter a valid Email address!
+Fri, 20 May 2016 10:41:44 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:05 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:05 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:05 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:05 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:06 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:07 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:07 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:07 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:07 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:07 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:07 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:07 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:07 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:07 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:07 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:07 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:07 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:07 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:07 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:07 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:07 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:07 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:07 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:07 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:07 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:07 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:08 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:08 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:08 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:08 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:08 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:08 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:08 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:08 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:08 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:08 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:08 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:08 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:08 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:08 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:08 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:08 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:08 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:08 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:08 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:08 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:08 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:08 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:08 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:08 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:08 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:08 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:08 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:08 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:08 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:09 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:10 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:10 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:10 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:10 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:10 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:10 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:10 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:10 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:10 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:10 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:10 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:10 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:10 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:10 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:10 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:10 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:10 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:10 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:10 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:10 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:10 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:10 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:10 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:10 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:11 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:11 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:11 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:11 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:11 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:11 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:11 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:11 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:11 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:11 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:11 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:11 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:11 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:11 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:11 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:11 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:11 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:11 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:11 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:11 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:11 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:11 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:11 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:11 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:11 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:11 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:11 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:11 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:11 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:11 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:11 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:12 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:13 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:13 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:13 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:13 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:13 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:13 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:13 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:13 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:13 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:13 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:13 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:13 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:13 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:13 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:13 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:13 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:13 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:13 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:13 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:13 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:13 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:13 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:13 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:13 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:13 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:13 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:13 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:13 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:13 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:13 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:27 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:27 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:27 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:27 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:27 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:27 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:27 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:27 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:27 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:27 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:27 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:27 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:27 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:27 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:27 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:27 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:27 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:27 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:27 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:27 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:27 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:27 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:27 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:27 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:27 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:27 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:27 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:27 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:28 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:29 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:30 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:31 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:32 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:32 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:32 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:32 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:32 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:32 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:32 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:32 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:32 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:32 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:32 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:32 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:32 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:32 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:32 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:32 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:32 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:32 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:32 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:32 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:32 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:32 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:32 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:32 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:32 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:32 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:32 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:34 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:34 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:34 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:34 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:34 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:34 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:34 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:34 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:34 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:34 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:34 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:34 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:34 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:34 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:34 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:34 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:34 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:44:34 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 10:50:40 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 11:03:27 +0000 [::1] rp@rp.com is invalid: Please enter a valid Email address!
+Fri, 20 May 2016 11:31:33 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Fri, 20 May 2016 11:32:45 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Mon, 23 May 2016 05:50:41 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Mon, 23 May 2016 05:52:23 +0000 [::1] 23000 Duplicate entry 'nb@nb.com' for key 'Email_UNIQUE'
+Mon, 23 May 2016 05:56:21 +0000 [::1] 22007 Incorrect date value: '' for column 'DOB' at row 1
+Mon, 23 May 2016 06:21:27 +0000 [::1] km@km.com is invalid: Please enter a valid Email address!
+Mon, 23 May 2016 06:24:17 +0000 [::1] km@km.com is invalid: Please enter a valid Email address!
+Mon, 23 May 2016 06:25:14 +0000 [::1] km@km.com is invalid: Please enter a valid Email address!
+Mon, 23 May 2016 06:25:43 +0000 [::1] km@km.com is invalid: Please enter a valid Email address!
+Mon, 23 May 2016 06:26:19 +0000 [::1] km@km.com is invalid: Please enter a valid Email address!
+Tue, 24 May 2016 10:18:10 +0000 [::1] ns@ns.com is invalid: Please enter a valid Email address!
+Wed, 25 May 2016 06:15:46 +0000 [::1] User age: 1967-05-11
+Wed, 25 May 2016 06:17:04 +0000 [::1] User age: 1976-05-13
+Wed, 25 May 2016 06:35:17 +0000 [::1] blah: 106
+Wed, 25 May 2016 06:35:17 +0000 [::1] HY000 Field 'Response_Time' doesn't have a default value
+Wed, 25 May 2016 07:32:18 +0000 [::1] 22001 Data too long for column 'User_Agent' at row 1
+Wed, 25 May 2016 07:32:50 +0000 [::1] 22001 Data too long for column 'User_Agent' at row 1
+Wed, 25 May 2016 07:39:09 +0000 [::1] 22001 Data too long for column 'User_Agent' at row 1
+Wed, 25 May 2016 07:47:11 +0000 [::1] 22007 Incorrect date value: '' for column 'DOB' at row 1
+Wed, 25 May 2016 07:53:28 +0000 [::1] Password field is mandatory; Please enter a valid text value for it!
+Wed, 25 May 2016 07:54:22 +0000 [::1] You need to be 18 years of age to sign up to Ju.Mp!
+Wed, 25 May 2016 07:54:45 +0000 [::1] 22007 Incorrect date value: '' for column 'DOB' at row 1
+Wed, 25 May 2016 07:57:46 +0000 [::1] DOB field is mandatory; Please enter a valid value for it!
+Wed, 25 May 2016 07:58:12 +0000 [::1] Gender field is mandatory; Please select a value for it!
+Wed, 25 May 2016 07:58:36 +0000 [::1] DOB field is mandatory; Please enter a valid value for it!
+Wed, 25 May 2016 08:09:52 +0000 [::1] Email value is invalid; Please enter a valid value for it!
+Wed, 25 May 2016 08:11:23 +0000 [::1] You need to be 18 years of age to sign up to Ju.Mp!
+Wed, 25 May 2016 08:11:57 +0000 [::1] Email value is invalid; Please enter a valid value for it!
+Wed, 25 May 2016 10:35:47 +0000 [::1] 23000 Duplicate entry 'sg@gmail.com' for key 'Email_UNIQUE'
+Wed, 25 May 2016 10:36:45 +0000 [::1] HY000 Field 'OTP_Reason' doesn't have a default value
+Wed, 25 May 2016 10:41:28 +0000 [::1] HY000 Field 'TimeStamp' doesn't have a default value
+Thu, 26 May 2016 04:47:43 +0000 [::1] Please accept Terms & Conditions to sign up to Ju.Mp!
+Thu, 26 May 2016 04:48:43 +0000 [::1] You need to be 18 years of age to sign up to Ju.Mp!
+Thu, 26 May 2016 04:49:26 +0000 [::1] You need to be 18 years of age to sign up to Ju.Mp!
+Thu, 26 May 2016 04:50:16 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Thu, 26 May 2016 04:52:03 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Thu, 26 May 2016 04:53:17 +0000 [::1] Email value is invalid; Please enter a valid value for it!
+Thu, 26 May 2016 04:53:37 +0000 [::1] You need to be 18 years of age to sign up to Ju.Mp!
+Thu, 26 May 2016 04:53:55 +0000 [::1] Gender field is mandatory; Please select a value for it!
+Thu, 26 May 2016 04:54:55 +0000 [::1] Please accept Terms & Conditions to sign up to Ju.Mp!
+Thu, 26 May 2016 05:09:13 +0000 [::1] You need to be 18 years of age to sign up to Ju.Mp!
+Thu, 26 May 2016 05:09:37 +0000 [::1] Gender field is mandatory; Please select a value for it!
+Thu, 26 May 2016 05:09:45 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Thu, 26 May 2016 05:10:07 +0000 [::1] Please accept Terms & Conditions to sign up to Ju.Mp!
+Thu, 26 May 2016 05:10:28 +0000 [::1] You need to be 18 years of age to sign up to Ju.Mp!
+Thu, 26 May 2016 05:10:47 +0000 [::1] 23000 Duplicate entry 'lk@lk.com' for key 'Email_UNIQUE'
+Thu, 26 May 2016 05:12:36 +0000 [::1] Email value is invalid; Please enter a valid value for it!
+Thu, 26 May 2016 05:14:14 +0000 [::1] Email value is invalid; Please enter a valid value for it!
+Thu, 26 May 2016 05:14:38 +0000 [::1] You need to be 18 years of age to sign up to Ju.Mp!
+Thu, 26 May 2016 05:15:02 +0000 [::1] Email value is invalid; Please enter a valid value for it!
+Thu, 26 May 2016 05:15:34 +0000 [::1] Gender field is mandatory; Please select a value for it!
+Thu, 26 May 2016 05:21:52 +0000 [::1] Email value is invalid; Please enter a valid value for it!
+Thu, 26 May 2016 05:25:12 +0000 [::1] You need to be 18 years of age to sign up to Ju.Mp!
+Thu, 26 May 2016 05:33:18 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Thu, 26 May 2016 05:38:19 +0000 [::1] Please accept Terms & Conditions to sign up to Ju.Mp!
+Thu, 26 May 2016 06:03:41 +0000 [::1] Email value is invalid; Please enter a valid value for it!
+Thu, 26 May 2016 06:04:30 +0000 [::1] Email value is invalid; Please enter a valid value for it!
+Thu, 26 May 2016 06:07:02 +0000 [::1] You need to be 18 years of age to sign up to Ju.Mp!
+Thu, 26 May 2016 06:09:46 +0000 [::1] Email value is invalid; Please enter a valid value for it!
+Thu, 26 May 2016 06:19:53 +0000 [::1] Email value is invalid; Please enter a valid value for it!
+Thu, 26 May 2016 06:20:59 +0000 [::1] Email value is invalid; Please enter a valid value for it!
+Thu, 26 May 2016 06:22:57 +0000 [::1] DOB field is mandatory; Please enter a valid value for it!
+Thu, 26 May 2016 06:24:27 +0000 [::1] Please accept Terms & Conditions to sign up to Ju.Mp!
+Thu, 26 May 2016 06:27:24 +0000 [::1] You need to be 18 years of age to sign up to Ju.Mp!
+Thu, 26 May 2016 06:30:07 +0000 [::1] Password field is mandatory; Please enter a valid text value for it!
+Thu, 26 May 2016 06:31:41 +0000 [::1] Gender field is mandatory; Please select a value for it!
+Thu, 26 May 2016 06:33:16 +0000 [::1] Last Name field is mandatory; Please enter a valid text value for it!
+Thu, 26 May 2016 06:35:39 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Thu, 26 May 2016 06:37:38 +0000 [::1] You need to be 18 years of age to sign up to Ju.Mp!
+Thu, 26 May 2016 06:39:42 +0000 [::1] Email value is invalid; Please enter a valid value for it!
+Thu, 26 May 2016 06:41:14 +0000 [::1] Last Name field is mandatory; Please enter a valid text value for it!
+Thu, 26 May 2016 06:43:27 +0000 [::1] Last Name field is mandatory; Please enter a valid text value for it!
+Thu, 26 May 2016 06:44:17 +0000 [::1] Please accept Terms & Conditions to sign up to Ju.Mp!
+Thu, 26 May 2016 06:45:26 +0000 [::1] Gender field is mandatory; Please select a value for it!
+Thu, 26 May 2016 06:46:03 +0000 [::1] You need to be 18 years of age to sign up to Ju.Mp!
+Thu, 26 May 2016 06:50:02 +0000 [::1] Please accept Terms & Conditions to sign up to Ju.Mp!
+Thu, 26 May 2016 06:51:07 +0000 [::1] Email value is invalid; Please enter a valid value for it!
+Thu, 26 May 2016 06:52:46 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Thu, 26 May 2016 06:53:33 +0000 [::1] Gender field is mandatory; Please select a value for it!
+Fri, 27 May 2016 06:13:15 +0000 [::1] Please accept Terms & Conditions to sign up to Ju.Mp!
+Fri, 27 May 2016 06:18:42 +0000 [::1] Email field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 07:01:12 +0000 [::1] Gender field is mandatory; Please select a value for it!
+Fri, 27 May 2016 07:11:51 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:12:39 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:12:39 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:13:39 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:13:39 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:13:43 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:13:43 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:07 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:08 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:09 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:09 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:09 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:09 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:14 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:14:44 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:14:44 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:20:09 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:20:09 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:20:54 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:20:54 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:20:56 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:22:05 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:22:05 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:22:07 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:22:24 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:22:24 +0000 [::1] Going to set the view!
+Fri, 27 May 2016 07:22:26 +0000 [::1] Authentication here!
+Fri, 27 May 2016 07:49:21 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 07:55:49 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 07:56:55 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 08:00:36 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 08:01:49 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 08:05:23 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 08:06:06 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 08:23:32 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 08:25:15 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 08:26:05 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 08:26:25 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 08:27:30 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 08:28:06 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 08:28:48 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 08:29:28 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 08:30:56 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 08:32:09 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 08:33:30 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 08:34:19 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 08:35:22 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 08:36:09 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 08:38:49 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 08:39:47 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 08:40:17 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 08:40:41 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 08:40:58 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 08:41:21 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 08:43:24 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 08:44:42 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 08:45:07 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 08:46:08 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 08:46:30 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 08:46:58 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 08:48:04 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Fri, 27 May 2016 09:46:34 +0000 [::1] HY000 Field 'Encrypted_OTP' doesn't have a default value
+Mon, 30 May 2016 04:29:35 +0000 [::1] HY000 Field 'Encrypted_OTP' doesn't have a default value
+Mon, 30 May 2016 05:02:38 +0000 [::1] 23000 Duplicate entry 'am@gmail.com' for key 'Email_UNIQUE'
+Mon, 30 May 2016 11:12:16 +0000 [::1] param skbn is: $1$F33.qq5.$j6dy1.cgjDRJUprgylZeV.
+Tue, 31 May 2016 04:42:25 +0000 [::1] Authentication here!
+Tue, 31 May 2016 04:42:25 +0000 [::1] Going to set the view!
+Tue, 31 May 2016 04:42:26 +0000 [::1] Authentication here!
+Tue, 31 May 2016 04:49:01 +0000 [::1] Authentication here!
+Tue, 31 May 2016 04:49:01 +0000 [::1] Going to set the view!
+Tue, 31 May 2016 04:49:03 +0000 [::1] Authentication here!
+Tue, 31 May 2016 05:13:47 +0000 [::1] Authentication here!
+Tue, 31 May 2016 05:13:47 +0000 [::1] Going to set the view!
+Tue, 31 May 2016 05:13:49 +0000 [::1] Authentication here!
+Tue, 31 May 2016 05:41:03 +0000 [::1] User is signed up!!!Neerja Bhanot
+Tue, 31 May 2016 05:41:03 +0000 [::1] Authentication here!
+Tue, 31 May 2016 05:41:03 +0000 [::1] Going to set the view!
+Tue, 31 May 2016 05:41:04 +0000 [::1] Authentication here!
+Tue, 31 May 2016 06:51:49 +0000 [::1] User is signed up!!!Neerja Bhanot
+Tue, 31 May 2016 06:51:49 +0000 [::1] Authentication here!
+Tue, 31 May 2016 06:51:49 +0000 [::1] Going to set the view!
+Tue, 31 May 2016 06:51:51 +0000 [::1] Authentication here!
+Tue, 31 May 2016 07:33:17 +0000 [::1] User is signed up!!!1
+Tue, 31 May 2016 07:33:17 +0000 [::1] Authentication here!
+Tue, 31 May 2016 07:33:17 +0000 [::1] Going to set the view!
+Tue, 31 May 2016 07:33:18 +0000 [::1] Authentication here!
+Tue, 31 May 2016 09:00:21 +0000 [::1] 23000 Duplicate entry 'f4fd5a2e4f9b8905c72b7f8841b427e1' for key 'Encrypted_OTP_UNIQUE'
+Tue, 31 May 2016 09:00:56 +0000 [::1] 23000 Duplicate entry 'f4fd5a2e4f9b8905c72b7f8841b427e1' for key 'Encrypted_OTP_UNIQUE'
+Tue, 31 May 2016 09:33:45 +0000 [::1] Please accept Terms & Conditions to sign up to Ju.Mp!
+Tue, 31 May 2016 09:34:31 +0000 [::1] Inside auth controller - before route
+Tue, 31 May 2016 09:40:11 +0000 [::1] User is signed up!!!Neerja Bhanot
+Tue, 31 May 2016 09:40:11 +0000 [::1] Inside auth controller - before route
+Tue, 31 May 2016 09:43:07 +0000 [::1] User is signed up!!!Dipika Pallikal
+Tue, 31 May 2016 09:49:39 +0000 [::1] User is signed up!!!Neerja Bhanot
+Tue, 31 May 2016 09:53:31 +0000 [::1] There is a problem: Neerja Bhanot
+Tue, 31 May 2016 09:56:21 +0000 [::1] Neerja Bhanot 1 1
+Tue, 31 May 2016 09:56:23 +0000 [::1] Neerja Bhanot 1 1
+Tue, 31 May 2016 10:04:49 +0000 [::1] Logged in user is: 1
+Wed, 01 Jun 2016 04:34:05 +0000 [::1] Sequi vero nihil nostrum. Dignissimos cupiditate eveniet reprehenderit id non ut numquam. Eos vitae maiores. Nostrum quia optio occaecati nulla molestiae a omnis. Hic maiores modi blanditiis aperiam earum eius. Ad delectus ea deserunt praesentium eveniet sapiente corrupti exercitationem minus ullam eius ex sint. Est harum perspiciatis nisi quo ratione recusandae accusamus nam fugiat. Repudiandae cupiditate quae proident id ad explicabo eligendi saepe nisi quibus magnam vero necessitatibus. Iure aperiam rerum error eius nesciunt illum ullam ab proident harum recusandae. Duis facere quia assumenda reiciendis dolor impedit.
+Wed, 01 Jun 2016 05:28:48 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Wed, 01 Jun 2016 05:31:29 +0000 [::1] In aperiam nulla itaque. Ad commodi at nulla quia. Dolor impedit assumenda totam eaque occaecati eos. Duis vel sapiente ex numquam perferendis asperiores architecto. Dignissimos unde numquam eaque accusamus. Aperiam debitis modi nemo expedita nulla laborum reprehenderit dicta culpa a cillum minim mollitia. Debitis sint eaque tenetur architecto consequatur numquam saepe enim dolor amet nisi facere. Itaque proident molestiae necessitatibus nam. Vitae sapiente at suscipit. Ea quibus iure asperiores adipisci in nostrum id architecto cillum ducimus itaque ullam ad.
+Wed, 01 Jun 2016 05:38:38 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Wed, 01 Jun 2016 05:39:51 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Wed, 01 Jun 2016 07:12:25 +0000 [::1] User is signed up!!!Deepika Padukone
+Wed, 01 Jun 2016 07:56:25 +0000 [::1] User is signed up!!!Sonam Mahajan
+Wed, 01 Jun 2016 08:13:39 +0000 [::1] First Name field is mandatory; Please enter a valid text value for it!
+Wed, 01 Jun 2016 08:13:46 +0000 [::1] Last Name field is mandatory; Please enter a valid text value for it!
+Wed, 01 Jun 2016 08:13:54 +0000 [::1] Password field is mandatory; Please enter a valid text value for it!
+Wed, 01 Jun 2016 08:14:04 +0000 [::1] Email field is mandatory; Please enter a valid text value for it!
+Wed, 01 Jun 2016 10:37:36 +0000 [::1] User is signed up!!!Neerja Bhanot
+Wed, 01 Jun 2016 10:42:04 +0000 [::1] User is signed up!!!Deepika Padukone
+Wed, 01 Jun 2016 10:50:28 +0000 [::1] User is signed up!!!Sonam Mahajan
+Wed, 01 Jun 2016 10:50:30 +0000 [::1] Logged in user is: 1
